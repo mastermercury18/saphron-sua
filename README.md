@@ -1,1 +1,1 @@
-building an all-in-one web-app connecting parents, students, and school admin 
+connects tutors, students, parents, and school admin for saphron learning
